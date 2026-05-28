@@ -2,7 +2,8 @@
 </h2></center>
 
 
-![Gif gatinho laptop](https://tenor.com/pt-BR/view/midnightgif300-gif-8284723474553281698)
+![Gif di Gatinho](https://media.tenor.com/t7g4W-example/midnight.gif)
+
 
 <!--
 **leticiakonno/leticiakonno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
