@@ -29,5 +29,8 @@
 |:---------------------------------------------:|:-------------:|:-------------:|
 |Bachelor's degree in<br>chemical engineering   | UNISO         |[Certificado](./certificado-engenharia-quimica.pdf)|
 |Aplicações Práticas  da IA                     | DIO           |[Certificado](https://hermes.dio.me/certificates/SQ5PLAAX.pdf)| 
+|Ética Empresaria                               | FGV           |[Certificado](./certificado-etica-empresarial.pdf)|
+|Planejamento de riscos em projeto              | FGV           |[Certificado](./certificado-planejamento-riscos-projetos.pdf)|
+|Segurança no Trabalho                          | ÚNICA         |[Certificado](./certificado-seguranca-no-trabalho.pdf)|
 
 </p>
