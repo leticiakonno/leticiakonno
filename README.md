@@ -38,6 +38,9 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/leticiamkonno/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50px"/></a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/leticiakonno/" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="50" alt="Instagram" />
+</a>
 
 </p>
 
