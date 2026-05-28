@@ -7,9 +7,10 @@
 </div>
 
 🐱 Hello, my name is Leticia Konno!<br>
-💻 Full Stack Developer & IT Technician
-🎓 B.S. in Chemical Engineering
-📫 How to reach me: leticia.konno13@gmail.com
+💻 Full Stack Developer & IT Technician<br>
+🎓 B.S. in Chemical Engineering<br>
+📫 How to reach me: leticia.konno13@gmail.com<br>
+🌎 Fun fact: former athlete (I carried the Olympic torch!) and ex traveler
 
 ## __My technologies__
 <p align="center">
@@ -18,4 +19,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="100px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="100px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="100px"/>
+</p>
+
+## __My certifications__
+
+<p align="center">
+
+| Courses                                       | Institution   | Certificate   |
+|:---------------------------------------------:|:-------------:|:-------------:|
+|Bachelor's degree in<br>chemical engineering   | UNISO         |[Certificado](./cetificado-engenharia-quimica)|
+|Aplicações Práticas  da IA                     | DIO           |[Certificado](https://hermes.dio.me/certificates/SQ5PLAAX.pdf)| 
+
 </p>
