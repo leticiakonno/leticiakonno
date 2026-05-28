@@ -12,7 +12,7 @@
 📫 How to reach me: leticia.konno13@gmail.com<br>
 🌎 Fun fact: former athlete (I carried the Olympic torch!) and ex traveler
 
-## __Tech Stack__
+### __Tech Stack__
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50px"/>
@@ -23,7 +23,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50px"/>
 </p>
 
-## __Tools__
+### __Tools__
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50px"/>
@@ -34,13 +34,14 @@
           
 </p>
 
-## __Social Medias__
+### __Social Medias__
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" href="https://www.linkedin.com/in/leticiamkonno/" width="50px"/>
+<a href="https://www.linkedin.com/in/leticiamkonno/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50px"/></a>
+
 </p>
 
-## __My certifications__
+### __My certifications__
 
 <p align="center">
 
