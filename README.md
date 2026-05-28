@@ -27,7 +27,7 @@
 
 | Courses                                       | Institution   | Certificate   |
 |:---------------------------------------------:|:-------------:|:-------------:|
-|Bachelor's degree in<br>chemical engineering   | UNISO         |[Certificado](./cetificado-engenharia-quimica)|
+|Bachelor's degree in<br>chemical engineering   | UNISO         |[Certificado](./certificado-engenharia-quimica)|
 |Aplicações Práticas  da IA                     | DIO           |[Certificado](https://hermes.dio.me/certificates/SQ5PLAAX.pdf)| 
 
 </p>
