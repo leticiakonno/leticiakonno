@@ -1,6 +1,4 @@
-<center>
-<h1> Hello, World! Welcome! 🔆</h1>
-</center>
+<h1 align="center"> Hello, World! Welcome! 🔆</h1>
 
 <div align="center">
 
