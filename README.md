@@ -50,7 +50,7 @@
 
 | Courses                                       | Institution   | Certificate   |
 |:---------------------------------------------:|:-------------:|:-------------:|
-|IT technician                                  | SENAC         |[Certificado]()|
+|IT technician                                  | SENAC         |[Certificado](./certificado-ti.pdf)|
 |Worpress (Tools and Virtual Stores)            | SENAC         |[Certificado](./certificado-wordpress.pdf)|
 |Bachelor's degree in<br>chemical engineering   | UNISO         |[Certificado](./certificado-engenharia-quimica.pdf)|
 |Aplicações Práticas  da IA                     | DIO           |[Certificado](https://hermes.dio.me/certificates/SQ5PLAAX.pdf)| 
