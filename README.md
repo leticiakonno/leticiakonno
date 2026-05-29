@@ -9,7 +9,7 @@
 🐱 <strong>Hello, my name is Leticia Konno!</strong><br>
 💻 Full Stack Developer & IT Technician<br>
 🎓 B.S. in Chemical Engineering<br>
-📫 How to reach me: leticia.konno13@gmail.com<br>
+📫 Contact me: leticia.konno13@gmail.com<br>
 🌎 Fun fact: former athlete (I carried the Olympic torch!) and ex traveler
 
 ### __Tech Stack__
