@@ -50,13 +50,13 @@
 
 | Courses                                       | Institution   | Certificate   |
 |:---------------------------------------------:|:-------------:|:-------------:|
-|IT technician                                  | SENAC         |[Certificado](./certificado-ti.pdf)|
-|Worpress (Tools and Virtual Stores)            | SENAC         |[Certificado](./certificado-wordpress.pdf)|
-|Bachelor's degree in<br>chemical engineering   | UNISO         |[Certificado](./certificado-engenharia-quimica.pdf)|
-|Aplicações Práticas  da IA                     | DIO           |[Certificado](https://hermes.dio.me/certificates/SQ5PLAAX.pdf)| 
-|Ética Empresaria                               | FGV           |[Certificado](./certificado-etica-empresarial.pdf)|
-|Planejamento de riscos em projeto              | FGV           |[Certificado](./certificado-planejamento-riscos-projetos.pdf)|
-|Segurança no Trabalho                          | ÚNICA         |[Certificado](./certificado-seguranca-no-trabalho.pdf)|
+|IT technician                                  | SENAC         |[Certificate](./certificado-ti.pdf)|
+|Worpress (Tools and Virtual Stores)            | SENAC         |[Certificate](./certificado-wordpress.pdf)|
+|Bachelor's degree in<br>chemical engineering   | UNISO         |[Certificate](./certificado-engenharia-quimica.pdf)|
+|Aplicações Práticas  da IA                     | DIO           |[Certificate](https://hermes.dio.me/certificates/SQ5PLAAX.pdf)| 
+|Ética Empresaria                               | FGV           |[Certificate](./certificado-etica-empresarial.pdf)|
+|Planejamento de riscos em projeto              | FGV           |[Certificate](./certificado-planejamento-riscos-projetos.pdf)|
+|Segurança no Trabalho                          | ÚNICA         |[Certificate](./certificado-seguranca-no-trabalho.pdf)|
 
 </p>
 
