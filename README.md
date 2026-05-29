@@ -44,7 +44,7 @@
 
 </p>
 
-### __My certifications__
+### __Certifications__
 
 <p align="center">
 
