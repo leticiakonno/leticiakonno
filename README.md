@@ -10,7 +10,9 @@
 💻 Full Stack Developer & IT Technician<br>
 🎓 B.S. in Chemical Engineering<br>
 📫 Contact me: leticia.konno13@gmail.com<br>
-🌎 Fun fact: former athlete (I carried the Olympic torch!) and ex traveler
+🌎 Fun fact: former athlete (I carried the Olympic torch!) and ex traveler<br>
+📖 E-book: [Access my e-book!](./engenharia-da-mudanca.pdf)
+
 
 ### __Tech Stack__
 <p>
