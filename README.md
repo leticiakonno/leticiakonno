@@ -53,7 +53,7 @@
 |IT technician                                  | SENAC         |[Certificate](./certificado-ti.pdf)|
 |Worpress (Tools and Virtual Stores)            | SENAC         |[Certificate](./certificado-wordpress.pdf)|
 |Bachelor's degree in<br>chemical engineering   | UNISO         |[Certificate](./certificado-engenharia-quimica.pdf)|
-|Practical Applications of AI                     | DIO           |[Certificate](https://hermes.dio.me/certificates/SQ5PLAAX.pdf)| 
+|                     | DIO           |[Certificate]()| 
 |Business Ethics                               | FGV           |[Certificate](./certificado-etica-empresarial.pdf)|
 |Project Risk Planning              | FGV           |[Certificate](./certificado-planejamento-riscos-projetos.pdf)|
 |Workplace Safety                          | ÚNICA         |[Certificate](./certificado-seguranca-no-trabalho.pdf)|
