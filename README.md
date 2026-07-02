@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, World! Welcome! 🔆</h1>
+.<h1 align="center"> Hello, World! Welcome! 🔆</h1>
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 </div>
 
 🐱 <strong>Hello, my name is Leticia Konno!</strong><br>
-💻 Full Stack Developer & IT Technician<br>
+💻 Full Stack Developer, IT Technician & Data Analysis<br>
 🎓 B.S. in Chemical Engineering<br>
 📫 Contact me: leticia.konno13@gmail.com<br>
 🌎 Fun fact: former athlete (I carried the Olympic torch!) and ex traveler<br>
