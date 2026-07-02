@@ -58,10 +58,12 @@
 | Courses                                       | Institution   | Certificate   |
 |:---------------------------------------------:|:-------------:|:-------------:|
 |IT technician                                  | SENAC         |[Certificate](./certificado-ti.pdf)|
+|DevOps Fundamentals                            | DIO           |[Certificate](./certificado-devops.pdf)|
+|AI-900 - IA Fundamentals in Azure              | Fundação Bradesco |[Certificate](./certificado-ai-900-azure.jpg)|
 |Worpress (Tools and Virtual Stores)            | SENAC         |[Certificate](./certificado-wordpress.pdf)|
 |Bachelor's degree in<br>chemical engineering   | UNISO         |[Certificate](./certificado-engenharia-quimica.pdf)|
 |AI fundamentals training                       | DIO           |[Certificate](https://hermes.dio.me/certificates/QDIYAKMW.pdf)| 
-|Github Certification                           |DIO|[Certificate](https://hermes.dio.me/certificates/BPIRXZ5V.pdf)|
+|Github Certification                           |DIO            |[Certificate](https://hermes.dio.me/certificates/BPIRXZ5V.pdf)|
 |Business Ethics                                | FGV           |[Certificate](./certificado-etica-empresarial.pdf)|
 |Project Risk Planning                          | FGV           |[Certificate](./certificado-planejamento-riscos-projetos.pdf)|
 |Workplace Safety                               | ÚNICA         |[Certificate](./certificado-seguranca-no-trabalho.pdf)|
