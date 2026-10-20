@@ -6,8 +6,13 @@
 
 </div>
 
-🐱 <strong>Hello, my name is Leticia Konno!</strong><br>
-💻 Full Stack Developer, IT Technician & Data Analysis<br>
+Data Analyst in transition from Engineering and Technology.
+
+My background combines process improvement, KPI analysis, root cause analysis, technology and data.
+
+I am currently developing projects using SQL, Python and Power BI to strengthen my skills in Data Analytics and Business Intelligence.
+
+💻 Data Analysis, Business Intelligence, IT Technician<br>
 🎓 B.S. in Chemical Engineering<br>
 📫 Contact me: leticia.konno13@gmail.com<br>
 🌎 Fun fact: former athlete (I carried the Olympic torch!) and ex traveler<br>
