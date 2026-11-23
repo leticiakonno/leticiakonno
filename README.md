@@ -52,10 +52,10 @@ I am currently developing projects using SQL, Python and Power BI to strengthen 
 ### Social Medias
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO/" target="_blank">
+  <a href="https://www.linkedin.com/in/leticiamkonno/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28px" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/SEU-USUARIO/" target="_blank">
+  <a href="https://www.instagram.com/leticiakonno/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28px" alt="Instagram"/>
   </a>
 </p>
