@@ -12,7 +12,7 @@ My background combines process improvement, KPI analysis, root cause analysis, t
 
 I am currently developing projects using SQL, Python and Power BI to strengthen my skills in Data Analytics and Business Intelligence.
 
-💻 Data Analysis, Business Intelligence, IT Technician<br>
+💻 Data Analysis, Business Analysis, Business Intelligence, IT Technician<br>
 🎓 B.S. in Chemical Engineering<br>
 📫 Contact me: leticia.konno13@gmail.com<br>
 🌎 Fun fact: former athlete (I carried the Olympic torch!) and ex traveler<br>
