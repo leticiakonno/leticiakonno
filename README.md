@@ -19,7 +19,6 @@ I am currently developing projects using SQL, Python and Power BI to strengthen 
 📖 E-book: [Access my e-book!](./engenharia-da-mudanca.pdf)
 
 
-### __Tech Stack__
 ### Tech Stack
 
 <p align="left">
